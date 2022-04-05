@@ -1,0 +1,21 @@
+html{
+    background-color: rgb(240, 171, 146);
+}
+.container{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+.btn{
+    border: solid 2px;
+    background-color: rgb(223, 233, 124);
+}
+.txt-right{
+    text-align: left;
+}
+.txt-center{
+    text-align: center;
+}
+.txt-left{
+    text-align: right;
+}
